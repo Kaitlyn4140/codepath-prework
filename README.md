@@ -5,7 +5,7 @@ This is my prework project for Codepath's Intro to Mobile App Development.
 
 ### App Walk-though
 
-<img src="https://imgur.com/a/UsbSVvN.gif" width=200><br>
+<img src="https://i.imgur.com/Bp6yVTx.gif" width=200><br>
 
 
 ### Required User Stories
