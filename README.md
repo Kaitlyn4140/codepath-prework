@@ -7,6 +7,7 @@ This is my prework project for Codepath's Intro to Mobile App Development.
 
 <img src="https://imgur.com/a/UsbSVvN" width=200><br>
 
+
 ### Required User Stories
 - [x] 1. User sees custom text in a label - Hello from {name}!
 - [x] 2. User see's custom background color.
