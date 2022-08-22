@@ -8,6 +8,10 @@ This is my prework project for Codepath's Intro to Mobile App Development.
 
 <img src="/Users/kaitlyntran/Downloads/ezgif.com-gif-maker.gif" width=200><br>
 
+![ezgif com-gif-maker](https://user-images.githubusercontent.com/77522279/185839853-1bd91409-3012-4570-be5b-d9693908616e.gif)
+
+
+
 ### Required User Stories
 - [x] 1. User sees custom text in a label - Hello from {name}!
 - [x] 2. User see's custom background color.
