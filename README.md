@@ -1,4 +1,4 @@
-## NAME_OF_YOUR_APP_HERE
+## Kaitlyn's Prework Project
 
 ### App Description
 This is my prework project for Codepath's Intro to Mobile App Development.
